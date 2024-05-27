@@ -1,0 +1,26 @@
+body {
+  padding: 10px;
+  width: 800px;
+  margin: auto;
+}
+
+input {
+  margin-bottom: 30px;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+.button-wrapper {
+    display: flex;
+    flex-direction: row;
+}
+
+form button {
+  margin-top: 30px;
+  background-color: white;
+  border-radius: 5px;
+  width: 80px;
+}
